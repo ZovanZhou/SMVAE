@@ -1,0 +1,6 @@
+tensorflow-gpu==2.4.1
+keras==2.4.3
+keras-bert==0.86.0
+tqdm==4.62.3
+numpy==1.19.5
+pandas==1.1.5
